@@ -1,0 +1,18 @@
+.galerie_container{
+    box-sizing: content-box;
+    width: 100%;
+    display: flex;
+}
+
+.galerie_container div{
+    padding:10px;
+    margin: 10px;
+    background-color: lime;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.galerie_container h2{
+    margin-top: 0;
+}
+
