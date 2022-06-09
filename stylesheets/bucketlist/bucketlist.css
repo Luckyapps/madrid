@@ -1,0 +1,9 @@
+.bucketlist_container{
+    display: flex;
+    box-sizing: content-box;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
